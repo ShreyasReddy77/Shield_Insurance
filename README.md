@@ -132,7 +132,6 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 ![Screenshot (310)](https://github.com/user-attachments/assets/5c68c5b8-fa8b-4e1d-8f3d-7bae07c34589)
 ![Screenshot (311)](https://github.com/user-attachments/assets/c97a4674-6b4a-4eca-bc41-929efe37f54d)
 ![Screenshot (312)](https://github.com/user-attachments/assets/44f4ac83-3688-44a0-a670-d35df17ef822)
-![Screenshot (313)](https://github.com/user-attachments/assets/7225885e-4d64-4931-8ac6-bd4c3687569a)
 
 
 
@@ -155,4 +154,4 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 - **Address Monthly Fluctuations:** Investigate the reasons behind the sharp decline in April 2023 to prevent future drops and ensure consistent growth.
 - **Promote Top-Performing Policies:** Highlight and expand marketing efforts around popular policies like "POL4321HEL" and high-revenue policies like "POL2005HEL."
 
-Thank you for reading and evaluating my repo :)  Live Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiZjc2ZGY1MWItOThjNS00YzlkLTgzNzItMWZlMjVmNzA2ZDM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=d88767304152b4646000)
+Thank you for reading and evaluating my repo :) 
